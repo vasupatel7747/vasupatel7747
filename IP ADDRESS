@@ -1,0 +1,432 @@
+# ip address
+
+# typs of hardwere & softwere
+
+1.                             There are 4 typs of       hardwere
+
+                    Input divice
+
+                  Output divice
+
+                Seconday storage divice
+
+                Internal components
+
+1    hardwere cannot be infected by virous
+
+2   hardwere will physically were out over time 
+
+3   ex= hadrdrives, monitor, CPU etc.
+
+                           and 2 typs or softwere
+
+                 Application softwere
+
+                 System softwere
+
+1      when damaged it can be instslled ones more using a backup copy
+
+2     infected by virous
+
+3     ex= windows 10, google, chrome etc 
+
+operating system is collection of softwere that manage computers hardwere resourses and provides commom  services for computer program
+
+                          
+
+                                               TYPS OF OS  
+
+1   Microsoft, Windows, Mac os, linux , unix 
+
+                          
+
+                                         mobile os 
+
+Andriods , ios , symbian, kaios ,  Black berry 
+
+# what is a network & typs of network
+
+A network, in simple terms, is a system that connects different things so they can share information and work together. Imagine it like a web where all the points are connected by strings. In a computer network, these "points" are devices like computers, phones, and servers, and the "strings" are the connections (such as cables or Wi-Fi) that allow them to communicate with each other.
+
+Just like a social network helps people connect and share information, a computer network helps devices exchange data, resources, and services, like sending emails or accessing the internet.
+
+                                              typs of netwok 
+
+- **LAN (Local Area Network)**
+- **WAN (Wide Area Network)**
+- **MAN (Metropolitan Area Network)**
+- **PAN (Personal Area Network)**
+- **VPN (Virtual Private Network)**
+- **SAN (Storage Area Network)**
+- **WLAN (Wireless Local Area Network)**
+- **CAN (Campus Area Network)**
+- **HAN (Home Area Network)**
+- **GAN (Global Area Network)**
+- SAN (strong area network)
+- POLAN( passive optical local area network)
+- EPN( enterprise private network)
+
+# what is ip address &typs of ip address
+
+Thera ara 4 typs of ip address 
+
+1   public ip address
+
+2   private ip address 
+
+3   static ip address 
+
+4   dynamic ip address 
+
+## use of ip address
+
+### public ip address use
+
+public ip address ka use network k andar kiya jata h 
+
+### private ip address use
+
+ 
+
+private ip address ka use network k bhar kiya jata h 
+
+## static ip address use
+
+static ip address ka use time k sath whai rehata h 
+
+ 
+
+## dynamic ip address use
+
+dynamic ip address ka use     - network  se juda  upkarno k liya 1 asthai   pata h  jo time k satha bada ta rehata h 
+
+# IP address version
+
+1    ip version 4
+
+2    ip version 6
+
+## full form of ip
+
+internet protocsl address structur
+
+ip k andar > 32 bit hoti h                                                                                               
+
+                                                                                                                      
+
+         1 bit= 0(off)/1(on)                 
+
+ip address me 4 saction hota h  
+
+ pr section me 8 bit hoti h  
+
+  decimal each section range from 0 to  255
+
+  like=0.0.0.0 to 255.255.255.255.
+
+00000000.00000000.00000000.00000000    to 11111111.11111111.11111111.11111111
+
+> total ip address =4294967296
+> 
+
+### classfull & classless ip address
+
+## classfull ip address
+
+classfull ip address 1 ipv4 addresing  arktactour h jisa  classfull addressing l rup me jana jata h  . is address ko 5 part me bata  jata h . classfull addresing me internet pr network ki sankhya ko gata kar kaval 254 hi reha jati h 
+
+Classful IP addresses are a way of organizing IP addresses into different groups or classes. Think of it like sorting candies into different jars based on their size or color. There are five main classes:
+
+- **Class A:** These are for very large networks. They start with numbers 1 to 126.
+- **Class B:** These are for medium-sized networks. They start with numbers 128 to 191.
+- **Class C:** These are for smaller networks. They start with numbers 192 to 223.
+- **Class D:** These are special addresses used for multicasting (sending information to many computers at once). They start with numbers 224 to 239.
+- **Class E:** These are reserved for experimental use. They start with numbers 240 to 255.
+
+Each class has a fixed part (network part) and a changeable part (host part). This system was created to make it easier to manage IP addresses, but it's not used as much today because it wasn't very flexible for different network sizes.
+
+## क्लासफुल आईपी एड्रेस (Classful IP Address) - आसान हिंदी में समझें
+
+क्लासफुल आईपी एड्रेस एक तरह का सिस्टम है जो आईपी एड्रेस को अलग-अलग समूहों में बांटता है। इसे ऐसे समझें जैसे आप मिठाइयों को उनके आकार या रंग के हिसाब से अलग-अलग डिब्बों में रखते हैं।
+
+क्लासफुल आईपी एड्रेस के पांच मुख्य वर्ग हैं:
+
+- **क्लास A:** बहुत बड़े नेटवर्क के लिए। ये 1 से 126 के बीच शुरू होते हैं।
+- **क्लास B:** मध्यम आकार के नेटवर्क के लिए। ये 128 से 191 के बीच शुरू होते हैं।
+- **क्लास C:** छोटे नेटवर्क के लिए। ये 192 से 223 के बीच शुरू होते हैं।
+- **क्लास D:** मल्टीकास्टिंग के लिए विशेष एड्रेस। ये 224 से 239 के बीच शुरू होते हैं।
+- **क्लास E:** प्रयोगात्मक उपयोग के लिए। ये 240 से 255 के बीच शुरू होते हैं।
+
+हर क्लास में एक फिक्स्ड हिस्सा (नेटवर्क पार्ट) और एक बदलने वाला हिस्सा (होस्ट पार्ट) होता है। यह सिस्टम आईपी एड्रेस को मैनेज करने के लिए बनाया गया था, लेकिन आजकल इसका उपयोग कम होता है क्योंकि यह अलग-अलग साइज के नेटवर्क के लिए ज्यादा फ्लेक्सिबल नहीं था।
+
+# classless ip address
+
+Classless IP address is a more flexible way of assigning IP addresses compared to the classful system. Here's an explanation in simple terms:
+
+1. No fixed classes: Unlike classful addressing, classless addressing doesn't divide IP addresses into fixed classes (A, B, C, etc.).
+2. More efficient: It allows for more efficient use of IP address space by creating subnets of various sizes.
+3. CIDR notation: It uses CIDR (Classless Inter-Domain Routing) notation, which looks like this: 192.168.1.0/24. The number after the slash indicates how many bits are used for the network part.
+4. Flexible subnetting: Network administrators can create subnets of any size, not just predetermined class sizes.
+5. Better for modern networks: It's more suitable for today's diverse network needs, from small home networks to large corporate networks.
+
+In simple words, classless IP addressing is like having adjustable dividers in a drawer, allowing you to create compartments of any size you need, rather than being limited to fixed sizes.
+
+## क्लासलेस आईपी एड्रेस (Classless IP Address) - आसान हिंदी में समझें
+
+क्लासलेस आईपी एड्रेस एक ऐसा तरीका है जो आईपी एड्रेस को बांटने का ज्यादा लचीला तरीका देता है। इसे सरल शब्दों में समझें:
+
+- **कोई तय वर्ग नहीं:** क्लासफुल एड्रेसिंग की तरह, इसमें आईपी एड्रेस को तय वर्गों (A, B, C, आदि) में नहीं बांटा जाता।
+- **ज्यादा कुशल:** यह आईपी एड्रेस स्पेस का ज्यादा कुशलता से इस्तेमाल करने देता है, क्योंकि इसमें किसी भी आकार के सबनेट बनाए जा सकते हैं।
+- **CIDR नोटेशन:** यह CIDR (क्लासलेस इंटर-डोमेन राउटिंग) नोटेशन का उपयोग करता है, जैसे 192.168.1.0/24। स्लैश के बाद का नंबर बताता है कि नेटवर्क पार्ट के लिए कितने बिट्स का उपयोग किया गया है।
+- **लचीला सबनेटिंग:** नेटवर्क प्रशासक किसी भी आकार के सबनेट बना सकते हैं, न कि सिर्फ पहले से तय किए गए वर्ग के आकार।
+- **आधुनिक नेटवर्क के लिए बेहतर:** यह आज के विविध नेटवर्क जरूरतों के लिए ज्यादा उपयुक्त है, चाहे वो छोटे घरेलू नेटवर्क हों या बड़े कॉरपोरेट नेटवर्क।
+
+सरल शब्दों में, क्लासलेस आईपी एड्रेसिंग ऐसा है जैसे आपके पास एक दराज में समायोज्य विभाजक हों, जो आपको जरूरत के हिसाब से किसी भी आकार के खाने बनाने देते हैं, न कि सिर्फ तय आकारों तक सीमित रहें।
+
+# classfull & classless
+
+IANA TOATL IP  ADDRESS =4294967296
+
+               
+
+CLASSFULL
+
+                                   Classfull have 5 class  A,B,C,D,E
+
+use of class 
+
+                                                                                                                                      class A   = goverment
+
+                                                                                                                                       class B = companies
+
+                                                                                                                                        class C = small companies
+
+                                                                                                                                         class D = multi casting
+
+                                                                                                                                           class E= future use
+
+We are usinng most class A,B,C
+
+>CLASS     A
+
+>off0000000.00000000.00000000.00000000   to off1111111.11111111.11111111.11111111
+
+off NNNNNNN.HHHHHHHH .HHHHHHHH.HHHHHHHH
+
+>Network Bits = 7 
+
+>host Bits =24
+
+number of network in class A=2n-2.7-2=126
+
+numbre of host in a netwok =2n-2=224-2=16777224
+
+>CLASS  B
+
+Network bits =14
+
+host bits= 16
+
+on off NNNNNN.HHHHHHHH.HHHHHHHH.HHHHHHHH.
+
+number of network in class B= 2N-2.14=16384
+
+Numbre of host in a netwok= 2N-2.16 =65534 
+
+>CLASS C
+
+Network bits = 21
+
+Host bits = 8
+
+on off NNNNNNNN.NNNNNNNN.NNNNNNNN.HHHHHHHH
+
+Number of networks in class C = 2^21 = 2,097,152
+
+Number of hosts in a network = 2^8 - 2 = 254
+
+## Classless IP Address
+
+In classless IP addressing, there are no fixed classes. Instead, it uses CIDR (Classless Inter-Domain Routing) notation. Here's how it works:
+
+- **Notation:** IP address/prefix length (e.g., 192.168.1.0/24)
+- **Prefix length:** Determines the network part (1-32 bits)
+- **Remaining bits:** Used for host addresses
+
+Number of networks and hosts:
+
+- **Number of networks:** Flexible, depends on how the address space is divided
+- **Number of hosts:** 2^(32 - prefix length) - 2
+
+Examples:
+
+- **/24 network:** 256 addresses, 254 usable hosts
+- **/26 network:** 64 addresses, 62 usable hosts
+- **/30 network:** 4 addresses, 2 usable hosts
+
+This flexibility allows for more efficient use of IP address space compared to the classful system.
+
+# public & private ip address
+
+                  >PUBLIC IP ADDRESS 
+
+Public ip address wha ip address h jiska use  metwok se bhar sanchar karna me kiya jata h 
+
+        
+
+            A public ip address is basically and cantrolled by an  ISP ( internet service provider ). 
+
+this mean that your public ip address can also  be  blocked & restricted by the ISP  for a particular internett service 
+
+class A
+
+       ip renge = 1.0.0.0 to 127.0.0.0
+
+subnet mark =255.0.0.0    
+
+           # of netwok =126 
+
+           # of host per network =16777214
+
+class B 
+
+            ip range= 128.0.0.0 to 191.255.0.0
+
+subnet mark = 255.255.0.0
+
+#of  netwok =16382 
+
+#of host per network =65534
+
+class  C 
+
+ip range =192.0.0.0 to 255.255.255.0
+
+subnet mark =255.255.255.0
+
+#of netwok 2097150
+
+#of hodt per netwok =254
+
+# private ip address
+
+Private ip address  connected divice ko internet se bina juda  communication   ( sanchar) kar ne kii permission ( anumati ) deta h 
+
+Private IP Address Ranges:
+
+Class A:
+
+- IP Range: 10.0.0.0 to 10.255.255.255
+- Subnet Mask: 255.0.0.0
+- # of Networks: 126
+- # of Hosts per Network: 16,777,214
+
+Class B:
+
+- IP Range: 172.16.0.0 to 172.31.255.255
+- Subnet Mask: 255.255.0.0
+- # of Networks: 16 382
+- # of Hosts per Network: 65,534
+
+Class C:
+
+- IP Range: 192.168.0.0 to 192.168.255.255
+- Subnet Mask: 255.255.255.0
+- # of Networks: 2097150
+- # of Hosts per Network: 254
+
+# reserve ip address
+
+This ip address renge =127.0.0.0  to 127.255.255.255
+
+Is reserved for look back 
+
+                      ex= A host’s self address also knows as local host address . the loopback IP address  is managed entiety  by and within the operating system  
+
+# ip  dena k rule
+
+IP asain by Netwokr owner 
+
+owner of LAN    himself   (hm) 
+
+owner ko IP DSEP server  deta h 
+
+Jb hm IP asain kara ga asa koi bhi bi  IP asain nee kar sakta jis k sub section me 0 ho 
+
+00000000.00000000.00000000.00000000 asa IP asain nee kar sakta 
+
+   
+
+- 0 class ki A ki range me aata h
+
+- RULE NO. 1.    class A
+
+00000000.00000000.00000000.00000000
+
+network        host                 host                 host 
+
+0.0.0.0
+
+- RULE NO. 2
+
+00000001.00000000.00000000.00000000
+
+netwokr         host                   host                   host     
+
+0.0.0.0 asa bhi IP asain nee kar sakta 
+
+RANGE 
+
+                 1.0.0.0 to 1.255.255.255
+
+- RULE NO.3
+
+00000000.00000000.00000000.00000001
+
+Network          host                    hots               host 
+
+0.0.0.1 esa IP bhii asain  nee kar sakta 
+
+- RULE NO. 4
+
+00000001.11111111.11111111.11111111
+
+Network            host                      host           host
+
+1.255.255.255
+
+hr network me frist IP 1.0.0.0 ye banta h or last IP 1.255255.255  ye banta h or hm frist and last IP use nee kar sakta 
+
+- CLASS A =    N H H H      1.0.0.0. TO 255
+- CLASS B  =N N H H        128 TO 255
+- CLASS C  =   N N N H    192 TO 255
+
+# IP addressing subneting
+
+A sub network or subnet is a logically subdivison of an IP network or the method of dividing a neteork into toe or more neteork is called subneting 
+
+N.H.H.H
+
+11111111.00000000.00000000.00000000 
+
+Fefaulet subnet mask= 255.0.0.0
+
+Network bits = 7     totel 8 hoti h lakin 1 hamara cantrole mee nhii hoti h 
+
+Host bit =24 
+
+no.of  network in class A = 2n-2=27-2=126
+
+no.of host in a network =2n-2=224-2=16777214
+
+subnating 
+
+11111111.11111111.11111111.1000000
+
+                     → 255.255.255.128 
+
+network bit =25
+
+host bit =7 
+
+no. of host is a network= 2n-2=27-2=126
