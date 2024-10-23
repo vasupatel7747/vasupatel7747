@@ -1,0 +1,61 @@
+# ORACLE       VM     VIRTUAL    BOX
+
+## creat win 7      machine
+
+:1. **VirtualBox Install Karo**
+
+Pehle to aapko **VirtualBox** apne computer mein install karni padegi. Yah ek free software hai jo virtual machines create karne mein madad karta hai.
+
+- VirtualBox ko install karne ke liye, pehle uske official website par jao aur apne system ke hisaab se sahi version download karo (Windows, macOS, Linux).
+- Install karo aur phir software open karo.
+
+### 2. **Nayi Virtual Machine Create Karo**
+
+- **VirtualBox** kholne ke baad, upar left side mein "New" button dikhega. Uspar click karo.
+- Naye virtual machine ka naam do, jaise "Windows 7". Phir **Operating System** ke liye “Microsoft Windows” select karo aur version “Windows 7” ka chuno.
+- "Next" button dabao.
+
+### 3. **Memory (RAM) Allocate Karo**
+
+- Yahan aapko apne virtual machine ke liye RAM set karni padegi. Agar aapke system mein 4GB ya 8GB RAM hai, toh **2GB (2048 MB)** RAM allocate kar do.
+- Phir "Next" dabao.
+
+### 4. **Virtual Hard Disk Create Karo**
+
+- Ab aapko ek virtual hard disk create karni padegi jisme Windows 7 install hoga.
+- “Create a virtual hard disk now” option select karo, phir "Create" button dabao.
+- "VDI (VirtualBox Disk Image)" ko select karo, aur "Next" karo.
+- **Dynamically allocated** ya **Fixed size** mein se dynamically allocated choose kar lo. Isme aap jitna space use karoge, utna hi lagega.
+- Disk size set karne ke liye, 25-30 GB choose karo, phir "Create" dabao.
+
+### 5. **Windows 7 ISO File Attach Karo**
+
+- Virtual machine create hone ke baad, aapko Windows 7 ka ISO file attach karna hoga (ye file aapko alag se download karna padega).
+- Virtual machine ka naam list mein dikhega, uspar click karo aur "Settings" button dabao.
+- **Storage** section mein jao aur "Empty" disk par click karo. Phir right side mein CD icon dikhai dega, uspe click karke **Choose a disk file** select karo.
+- Yahan se aap apna Windows 7 ISO file select kar sakte ho.
+
+### 6. **Virtual Machine Start Karo**
+
+- Ab sab settings sahi karne ke baad, "Start" button dabao.
+- Ab aapke virtual machine mein Windows 7 ka installation process shuru ho jayega.
+
+### 7. **Windows 7 Install Karo**
+
+- Installation screen par "Install Now" par click karo.
+- License terms accept karo aur “Custom Installation” choose karo.
+- Aapko jo virtual hard disk banayi thi, usko select karo aur "Next" dabao.
+- Ab installation process shuru ho jayega, jo thoda waqt lega.
+
+### 8. **Windows 7 Setup Complete Karo**
+
+- Jab installation complete ho jaye, to system restart hoga aur aapko apna username aur password set karne ko kahega.
+- Basic settings set karne ke baad, Windows 7 aapke VirtualBox mein ready ho jayega.
+
+### 9. **Guest Additions Install Karo (Optional)**
+
+- VirtualBox ke features ka poora fayda lene ke liye, "Guest Additions" install karna useful hota hai. Yeh aapko better performance aur features jaise shared clipboard aur drag-and-drop enable karta hai.
+
+Aapki Windows 7 Virtual Machine ab tayar hai! Aap ise apne normal system ke andar chala sakte ho, aur jab chahe ise stop kar sakte ho ya pause kar sakte ho.
+
+Agar aapko koi dikkat aaye ya aur koi steps chahiye, toh aap pooch sakte ho!
